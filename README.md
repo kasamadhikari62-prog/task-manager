@@ -44,7 +44,7 @@ task-manager/
 2. Clone this repository:
 
 ```
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/kasamadhikari62-prog/task-manager
 ```
 
 3. Navigate to the project folder:
